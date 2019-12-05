@@ -1,0 +1,1 @@
+Given the products, their prices and volumes, place products in a truck to maximize profit while respecting truck space.
